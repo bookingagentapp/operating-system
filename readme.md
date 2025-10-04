@@ -4,7 +4,7 @@ This folder serves as the living knowledge base for the BookingAgent application
 
 ## Purpose
 
-While `/docs` contains formal technical documentation, `/os` is our internal knowledge graph for:
+`/os` is our complete documentation and knowledge graph for:
 
 - Mental models and system flows
 - Design decisions and architectural reasoning
@@ -70,9 +70,9 @@ Check the entity access concept.
 
 ## Cross-References
 
-- Link to formal docs when referencing implementation: `See /docs/SYSTEMS/CONTACTS.md`
 - Link to code using relative paths: `app/Models/Artist.php`
 - Link between OS concepts liberally to build the knowledge graph
+- Use WikiLinks for all internal references
 
 ## Maintenance
 

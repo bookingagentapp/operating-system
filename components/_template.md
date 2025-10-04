@@ -72,10 +72,6 @@ $component->someMethod();
 - [[flows/flow-name]] - Where it's critical
 - [[flows/another-flow]] - How it's used
 
-## Technical Documentation
-
-See `/docs/ENTITIES/COMPONENT_NAME.md` or `/docs/SYSTEMS/COMPONENT_NAME.md`
-
 ## Dependencies
 
 What this component requires:

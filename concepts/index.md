@@ -39,4 +39,3 @@ This section documents the fundamental concepts that underpin the BookingAgent s
 
 - See [[flows/index]] for how concepts manifest in user journeys
 - See [[components/index]] for implementation details
-- See `/docs/ARCHITECTURE/` for technical specifications

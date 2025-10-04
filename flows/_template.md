@@ -67,7 +67,6 @@ Key files and classes:
 
 - `app/Livewire/Example/Component.php`
 - `app/Services/ExampleService.php`
-- See `/docs/SYSTEMS/EXAMPLE.md`
 
 ## Related Flows
 

@@ -81,10 +81,6 @@ What to check and how to fix.
 - [[infra/related-component]] - How they interact
 - [[infra/dependent-system]] - Dependencies
 
-## Technical Documentation
-
-See `/docs/OPERATIONS/COMPONENT.md` for detailed procedures.
-
 ## Runbooks
 
 Link to operational procedures:

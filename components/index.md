@@ -61,4 +61,3 @@ This section documents the building blocks of the application. Components can be
 
 - See [[concepts/index]] for architectural patterns
 - See [[flows/index]] for how components work together
-- See `/docs/ENTITIES/` for detailed model documentation

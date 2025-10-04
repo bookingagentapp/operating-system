@@ -38,10 +38,6 @@ Reference specific files or patterns:
 
 - [[flows/example-flow]] - Where this concept is critical
 
-## Technical Details
-
-Link to formal documentation: `/docs/ARCHITECTURE/EXAMPLE.md`
-
 ## Examples
 
 ```php

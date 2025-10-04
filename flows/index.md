@@ -30,4 +30,3 @@ This section documents how data moves through the system and how users interact 
 
 - See [[concepts/index]] for the mental models behind these flows
 - See [[components/index]] for implementation details
-- See `/docs/SYSTEMS/` for technical specifications

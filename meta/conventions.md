@@ -67,13 +67,13 @@ With anchors:
 [[concepts/multi-tenancy#database-architecture]]
 ```
 
-### External Links
+### Code References
 
-Use relative paths for code and `/docs`:
+Use relative paths for code:
 
 ```markdown
 See `app/Models/Artist.php` for implementation.
-See `/docs/SYSTEMS/CONTACTS.md` for details.
+Check `app/Services/ContactableService.php` for the service layer.
 ```
 
 ## Frontmatter
@@ -142,7 +142,7 @@ actors: User, System, External
 
 - Only markdown files
 - Use code blocks for examples
-- Link to diagrams in `/docs` if needed
+- ASCII diagrams or Mermaid syntax for visualizations
 - Keep it text-searchable
 
 ## Template Usage

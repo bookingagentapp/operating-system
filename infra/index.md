@@ -45,5 +45,3 @@ This section documents how the application is deployed, configured, and operated
 ## Related
 
 - See [[concepts/multi-tenancy]] for architectural patterns
-- See `/docs/OPERATIONS/` for detailed procedures
-- See `/docs/ADMIN/` for administrative tasks

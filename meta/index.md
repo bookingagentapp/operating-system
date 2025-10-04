@@ -12,13 +12,12 @@ This section contains meta-information about the `/os` system itself, our conven
 - [[meta/graph]] - Relationship mapping between entities
 - [[meta/maintenance]] - How to keep docs up to date
 - [[meta/templates]] - Using the template system
-- [[meta/migration-from-docs]] - Relationship with `/docs` folder
 
 ## Philosophy
 
 The `/os` folder is designed to:
 
-1. **Complement `/docs`**: Formal technical docs live in `/docs`, mental models live here
+1. **Complete documentation**: Everything you need to understand the system
 2. **Enable exploration**: Obsidian graph view shows relationships
 3. **Stay minimal**: Only document what provides value
 4. **Version with code**: Docs evolve alongside implementation

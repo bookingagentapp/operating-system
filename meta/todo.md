@@ -476,5 +476,4 @@ Review all docs, ensure links are correct, update graph.md with relationships.
 - Update this todo as documentation is completed
 - Cross-link liberally between related docs
 - Keep each doc focused and concise
-- Reference `/docs` for technical details
 - Update `meta/graph.md` as relationships become clear

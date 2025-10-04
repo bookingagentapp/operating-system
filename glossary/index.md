@@ -84,7 +84,7 @@ External API providing artist and venue data enrichment. See [[components/Vibera
 
 ### Echo Framework
 
-WebSocket management for real-time features. See `/docs/SYSTEMS/ECHO_FRAMEWORK.md`.
+WebSocket management for real-time features. Used for real-time notifications and updates.
 
 ## Related
 
