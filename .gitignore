@@ -1,0 +1,35 @@
+# OBSIDIAN COLLAB SAFE GITIGNORE
+
+# ignore transient ui/session files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/appearance.json
+.obsidian/graph.json
+.obsidian/core-plugins.json
+
+# ignore plugin state (user tokens, cached data)
+.obsidian/plugins/**/data.json
+.obsidian/plugins/**/data*
+.obsidian/plugins/obsidian-git/data.json
+.obsidian/plugins/templater-obsidian/data.json
+.obsidian/plugins/dataview/data.json
+
+# keep plugin configs but not transient files
+!.obsidian/plugins/
+!.obsidian/plugins/*/
+!.obsidian/plugins/*/manifest.json
+!.obsidian/plugins/*/main.js
+!.obsidian/plugins/*/styles.css
+
+# mac/windows cruft
+.DS_Store
+Thumbs.db
+
+# obsidian local cache / sync temp files
+.obsidian/cache/
+.obsidian/plugins/obsidian-sync/
+.obsidian/backups/
+.obsidian/snippets/.obsidian-css-snippets-cache
+
+# optional: if you use local graph or canvas stuff
+.obsidian/canvas-backups/
