@@ -4,7 +4,7 @@ User journeys, data flows, and process diagrams that show how the system operate
 
 ## Overview
 
-This section documents how data moves through the system and how users interact with features. Each flow connects multiple [[concepts/index|concepts]] and [[components/index|components]].
+This section documents how data moves through the system and how users interact with features. Each flow connects multiple [[Concepts|concepts]] and [[Components|components]].
 
 ## User Flows
 
@@ -28,5 +28,5 @@ This section documents how data moves through the system and how users interact 
 
 ## Related
 
-- See [[concepts/index]] for the mental models behind these flows
-- See [[components/index]] for implementation details
+- See [[Concepts]] for the mental models behind these flows
+- See [[Components]] for implementation details

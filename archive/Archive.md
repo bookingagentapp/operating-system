@@ -37,5 +37,5 @@ Currently empty. Content will be added as concepts evolve and get replaced.
 
 ## Related
 
-- See [[meta/conventions]] for archiving process
+- See [[Conventions]] for archiving process
 - See [[meta/maintenance]] for when to archive

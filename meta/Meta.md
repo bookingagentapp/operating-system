@@ -8,7 +8,7 @@ This section contains meta-information about the `/os` system itself, our conven
 
 ## Contents
 
-- [[meta/conventions]] - Naming and formatting standards
+- [[Conventions]] - Naming and formatting standards
 - [[meta/graph]] - Relationship mapping between entities
 - [[meta/maintenance]] - How to keep docs up to date
 - [[meta/templates]] - Using the template system
@@ -48,7 +48,7 @@ The `/os` folder is designed to:
 
 ## Quick Reference
 
-- Main README: [[readme]]
+- Main README: [[Internal Operating System]]
 - Concept templates: [[concepts/_template]]
 - Flow templates: [[flows/_template]]
 - Component templates: [[components/_template]]

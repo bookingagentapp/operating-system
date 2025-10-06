@@ -102,15 +102,14 @@ actors: User, System, External
 
 ### All Documents
 
-1. Title (H1)
-2. One-sentence summary
-3. Overview section
-4. Main content
-5. Related links section
+1. One-sentence summary
+2. Overview section
+3. Main content
+4. Related links section
 
 ### Use Headers Consistently
 
-- H1 (`#`) - Document title only
+- H1 (`#`) - No h1, uses the h1 from the native file name, example Architecture.md
 - H2 (`##`) - Major sections
 - H3 (`###`) - Subsections
 - H4 (`####`) - Details (sparingly)
@@ -233,4 +232,4 @@ Before committing:
 
 - [[meta/graph]] - Relationship visualization
 - [[meta/maintenance]] - Keeping docs fresh
-- [[readme]] - Main OS documentation
+- [[Internal Operating System]] - Main OS documentation

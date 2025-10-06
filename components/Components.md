@@ -59,5 +59,5 @@ This section documents the building blocks of the application. Components can be
 
 ## Related
 
-- See [[concepts/index]] for architectural patterns
-- See [[flows/index]] for how components work together
+- See [[Concepts]] for architectural patterns
+- See [[Flows]] for how components work together

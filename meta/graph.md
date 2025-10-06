@@ -104,6 +104,6 @@ Consider using:
 
 ## Related
 
-- See [[concepts/index]] for individual concept docs
-- See [[components/index]] for component details
-- See [[flows/index]] for process flows
+- See [[Concepts]] for individual concept docs
+- See [[Components]] for component details
+- See [[Flows]] for process flows

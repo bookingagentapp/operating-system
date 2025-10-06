@@ -10,7 +10,7 @@ This glossary defines terms specific to the BookingAgent domain. Use it as a ref
 
 ### Tenant
 
-A single organization using the BookingAgent system. Each tenant has its own isolated database with users, companies, and configurations. See [[concepts/multi-tenancy]].
+A single organization using the BookingAgent system. Each tenant has its own isolated database with users, and configurations. See [[concepts/multi-tenancy]].
 
 ### Central Database
 
@@ -88,5 +88,5 @@ WebSocket management for real-time features. Used for real-time notifications an
 
 ## Related
 
-- See [[concepts/index]] for detailed concept explanations
-- See [[components/index]] for implementation details
+- See [[Concepts]] for detailed concept explanations
+- See [[Components]] for implementation details
